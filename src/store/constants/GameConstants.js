@@ -1,0 +1,2 @@
+export const SELECT_CLICKED = 'SELECT_CLICKED';
+export const PLAY_CLICKED = 'PLAY_CLICKED'; 
